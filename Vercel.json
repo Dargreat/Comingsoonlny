@@ -1,12 +1,6 @@
 {
   "version": 2,
   "name": "lnystyles",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static-build"
-    }
-  ],
   "routes": [
     {
       "src": "/(.*)",
